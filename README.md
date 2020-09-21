@@ -3,6 +3,7 @@
 
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/ios_shen/iOSDeviceSupport
+
 只是需要单个的可以下载单个，如下
 ## 便捷单包下载地址：
 
