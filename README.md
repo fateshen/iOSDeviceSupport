@@ -5,12 +5,9 @@
 
 ## 便捷单包下载地址：
 
-* [iOS 13.3](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/13.3.zip)
-* [iOS 13.4](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/13.4.zip)
-* [iOS 13.5](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/13.5.zip)
-* [iOS 13.6](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/13.6.zip)
-* [iOS 13.7](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/13.7.zip)
-* [iOS 14.0](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/14.0.zip)
+* [iOS 14.2](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0、14.2）/14.2.zip)
+* [iOS 14.0](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0、14.2）/14.0.zip)
+
 
 # 坚持维护更新中~
 
