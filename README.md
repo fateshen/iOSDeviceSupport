@@ -15,7 +15,12 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 * [iOS 13.7](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.7.zip)
 * [iOS 13.6](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.6.zip)
 
-下载地址拼写规则示例如下：https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0-14.2）/14.1.zip
+下载地址拼写规则示例如下：
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.6.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.7.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0-14.2）/14.0.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0-14.2）/14.1.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14（14.0-14.2）/14.2.zip
 
 
 # 坚持维护更新中~
