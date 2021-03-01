@@ -1,5 +1,5 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support(最新支持 iOS14.3 Beta版)
+各个版本的iOS Device Support(最新支持 iOS14.5 Beta版)
 
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
