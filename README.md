@@ -8,6 +8,8 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 
 只是需要单个的可以下载单个，如下
 ## 便捷单包下载地址：
+* [iOS 14.5](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.5.zip)
+* [iOS 14.4](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.4.zip)
 * [iOS 14.3](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.3.zip)
 * [iOS 14.2](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.2.zip)
 * [iOS 14.1](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.1.zip)
