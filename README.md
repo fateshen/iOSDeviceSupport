@@ -1,6 +1,8 @@
 # iOSDeviceSupport
 各个版本的iOS Device Support(最新支持 iOS14.6，，，，，，，14.7可以用14.6的包尝试，应该兼容的)
 
+新添加 iOS15(Beta2)版本
+
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
 
@@ -8,6 +10,8 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 
 只是需要单个的可以下载单个，如下
 ## 便捷单包下载地址：
+* [iOS 15.0](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.0.zip)
+
 * [iOS 14.6](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.6.zip)
 * [iOS 14.5](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.5.zip)
 * [iOS 14.4](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.4.zip)
@@ -19,6 +23,7 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 * [iOS 13.6](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.6.zip)
 
 ### 下载地址拼写规则示例如下：
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.0.zip
 
 https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.6.zip
 https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS13（13.0-13.7）/13.7.zip
