@@ -1,7 +1,7 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support(最新支持 iOS14.8 && iOS15.1版本 ，，，，，，，)
+各个版本的iOS Device Support(最新支持 iOS14.8 && iOS15.4版本 ，，，，，，，)
 
-新添加 iOS15.1版本
+新添加 iOS15.2,15.3,15.4 版本
 
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
@@ -10,6 +10,9 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 
 只是需要单个的可以下载单个，如下
 ## 便捷单包下载地址：
+* [iOS 15.4](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.4.zip)
+* [iOS 15.3](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.3.zip)
+* [iOS 15.2](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.2.zip)
 * [iOS 15.1](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.1.zip)
 * [iOS 15.0](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.0.zip)
 * [iOS 14.8](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.8.zip)
@@ -40,6 +43,9 @@ https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.7.zip
 https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS14/14.8.zip
 https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.0.zip
 https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.1.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.2.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.3.zip
+https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS15/15.4.zip
 
 # 坚持维护更新中~
 
