@@ -1,7 +1,7 @@
 # iOSDeviceSupport
-各个版本的iOS Device Support(最新支持 iOS16.3 && iOS16.4Beta版本 ，，，，，，，)
+各个版本的iOS Device Support(最新支持 iOS16.5 && iOS17.0版本 ，，，，，，，)
 
-新添加 iOS16.2,16.3 版本
+新添加 iOS17 版本
 
 存放路径：/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
 
@@ -10,6 +10,7 @@ GitHub下载速度慢的同学可以移步码云（Gitee）：https://gitee.com/
 
 只是需要单个的可以下载单个，如下
 ## 便捷单包下载地址：
+* [iOS 17.0](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS17/17.0.zip)
 * [iOS 16.4](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS16/16.4.zip)
 * [iOS 16.3](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS16/16.3.zip)
 * [iOS 16.2](https://gitee.com/ios_shen/iOSDeviceSupport/raw/master/iOS16/16.2.zip)
